@@ -56,4 +56,4 @@ Update these values in `Program.cs`:
 
 ### Step 6 – Run the Application
 
-Run from Visual Studio:
+Run from Visual Studio
